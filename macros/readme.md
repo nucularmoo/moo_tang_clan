@@ -1,4 +1,4 @@
-***Please create one file per macro, with a short description of what the macro does as follows:***
+**Please create one file per macro, with a short description of what the macro does as follows (using template.md):**
 
 ***
 
